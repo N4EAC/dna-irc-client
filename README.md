@@ -2,6 +2,9 @@
 
 A native macOS IRC client built with Swift, AppKit, and Network.framework. DNA includes an amber CRT app icon. No browser, Electron, web server, or third-party runtime. The amber CRT appearance is inspired by [cool-retro-term](https://github.com/Swordfish90/cool-retro-term); its source code is not incorporated.
 
+
+![DNA 1.3 — native macOS app in amber CRT theme](docs/DNA-1.3.png)
+
 ## Build and launch
 
 Requires macOS 13+ and Xcode command line tools.
