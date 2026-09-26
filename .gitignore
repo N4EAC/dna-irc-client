@@ -1,0 +1,7 @@
+.build/
+DNA.app/Contents/MacOS/
+DNA.app/Contents/_CodeSignature/
+.DS_Store
+dist/
+DNA.app/Contents/Resources/
+.swiftpm/

@@ -1,0 +1,9816 @@
+[
+  {
+    "name": "0fucks.twistednet.org",
+    "host": "0fucks.twistednet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "a.irc.somenet.org",
+    "host": "a.irc.somenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aargau.abad1dea.to",
+    "host": "aargau.abad1dea.to",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "abby.mindforge.org",
+    "host": "abby.mindforge.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aberdeen.chathispano.com",
+    "host": "aberdeen.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "abyss.nl.eu.darkmyst.org",
+    "host": "abyss.nl.eu.darkmyst.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "acorns.retronode.org",
+    "host": "acorns.retronode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "admin.sohbet.net",
+    "host": "admin.sohbet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "adrift.au.quakenet.org",
+    "host": "adrift.au.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "adrift.sg.quakenet.org",
+    "host": "adrift.sg.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aegis.konnectchatirc.net",
+    "host": "aegis.konnectchatirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aitvarasnet.org",
+    "host": "aitvarasnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "akatsuki.nl.eu.zenet.org",
+    "host": "akatsuki.nl.eu.zenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alcatraz.fef.net",
+    "host": "alcatraz.fef.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alesara.explosionirc.net",
+    "host": "alesara.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alexandria4.yossman.net",
+    "host": "alexandria4.yossman.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alfa.netirc.eu",
+    "host": "alfa.netirc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alicorn.furnet.org",
+    "host": "alicorn.furnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alpha.noxether.net",
+    "host": "alpha.noxether.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alpha.ptirc.org",
+    "host": "alpha.ptirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "alpine.thestormnet.com",
+    "host": "alpine.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "america.eyerc.net",
+    "host": "america.eyerc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "amigos.chateo.org",
+    "host": "amigos.chateo.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "amsterdam.nl.eu.cyberirc.org",
+    "host": "amsterdam.nl.eu.cyberirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "anarchy.esper.net",
+    "host": "anarchy.esper.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "andromede.europnet.org",
+    "host": "andromede.europnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aneto.synchro.net",
+    "host": "aneto.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "animal.onzin.org",
+    "host": "animal.onzin.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "anime.globalirc.it",
+    "host": "anime.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "anime1.globalirc.it",
+    "host": "anime1.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "antro.indecentes.net",
+    "host": "antro.indecentes.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "anvil.nj.us.serenity-irc.net",
+    "host": "anvil.nj.us.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "apache.globalirc.it",
+    "host": "apache.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aparis.cuplu.eu",
+    "host": "aparis.cuplu.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "apocalypse.irc4fun.net",
+    "host": "apocalypse.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "apollo.jhb.za.atrum.org",
+    "host": "apollo.jhb.za.atrum.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "apolo.globalchat.org",
+    "host": "apolo.globalchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "apple.wixchat.org",
+    "host": "apple.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "apropo.desirenet.org",
+    "host": "apropo.desirenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "arad.ro.pinoyirc.com",
+    "host": "arad.ro.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "arcanine.entropynet.net",
+    "host": "arcanine.entropynet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "arena.wirachat.my",
+    "host": "arena.wirachat.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "armida.german-elite.net",
+    "host": "armida.german-elite.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "armisael.surrealchat.net",
+    "host": "armisael.surrealchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "arse.nl.eu.abjects.net",
+    "host": "arse.nl.eu.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "as-hub.kampungchat.org",
+    "host": "as-hub.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ascalon.zeronode.net",
+    "host": "ascalon.zeronode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "asgard.kbfail.net",
+    "host": "asgard.kbfail.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ashburn.morphie.net",
+    "host": "ashburn.morphie.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "asteroid.az.us.chat-solutions.org",
+    "host": "asteroid.az.us.chat-solutions.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atarians.dejatoons.net",
+    "host": "atarians.dejatoons.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "athel.synchro.net",
+    "host": "athel.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atheme.soylentnews.org",
+    "host": "atheme.soylentnews.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "athena.kampungchat.org",
+    "host": "athena.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atlantis.aureaworld.org",
+    "host": "atlantis.aureaworld.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atlantis.magicstar.net",
+    "host": "atlantis.magicstar.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atrium.communiti.chat",
+    "host": "atrium.communiti.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atw.hu.eu.dal.net",
+    "host": "atw.hu.eu.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atw.hu.quakenet.org",
+    "host": "atw.hu.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "atw.irc.hu",
+    "host": "atw.irc.hu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "au.darkworld.chat",
+    "host": "au.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "au.ircsource.irc.uk",
+    "host": "au.ircsource.irc.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aubytes.thestormnet.com",
+    "host": "aubytes.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aurora.afternet.org",
+    "host": "aurora.afternet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aurora.ca.us.serenity-irc.net",
+    "host": "aurora.ca.us.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aurora.pc-logix.com",
+    "host": "aurora.pc-logix.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "aussie.tilde.chat",
+    "host": "aussie.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "australia-au.newnet.net",
+    "host": "australia-au.newnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "avalon.zeolia.chat",
+    "host": "avalon.zeolia.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "avarice.ny.us.synirc.net",
+    "host": "avarice.ny.us.synirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "avenacorporation.com",
+    "host": "avenacorporation.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ayochat.sg.allnetwork.org",
+    "host": "ayochat.sg.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "b0rk.de.eu.shadowworld.net",
+    "host": "b0rk.de.eu.shadowworld.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bajubesi.wixchat.org",
+    "host": "bajubesi.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "balin.geeknode.org",
+    "host": "balin.geeknode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ballista.techtronix.net",
+    "host": "ballista.techtronix.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bardiel.surrealchat.net",
+    "host": "bardiel.surrealchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "baseduser.eu.org",
+    "host": "baseduser.eu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bash.mx.irc-nerds.net",
+    "host": "bash.mx.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bbc.fef.net",
+    "host": "bbc.fef.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bbsdev.synchro.net",
+    "host": "bbsdev.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bbsrv.eu.se.undermind.net",
+    "host": "bbsrv.eu.se.undermind.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bds.zeolia.chat",
+    "host": "bds.zeolia.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "beauharnois-ca.newnet.net",
+    "host": "beauharnois-ca.newnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bekasi.us.evochat.id",
+    "host": "bekasi.us.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "belwue.de",
+    "host": "belwue.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bender.chatspike.net",
+    "host": "bender.chatspike.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "beowulf.hub.sorcery.net",
+    "host": "beowulf.hub.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "beraunet.us.allnetwork.org",
+    "host": "beraunet.us.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "berlin.de.eu.cyberirc.org",
+    "host": "berlin.de.eu.cyberirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "beta.noxether.net",
+    "host": "beta.noxether.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "beton.bolchat.com",
+    "host": "beton.bolchat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bifrost.ca.us.dal.net",
+    "host": "bifrost.ca.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bigben.uk.p2p-network.net",
+    "host": "bigben.uk.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bigfoot.va.us.chatlounge.net",
+    "host": "bigfoot.va.us.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "birnam.chathispano.com",
+    "host": "birnam.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bitcoin.uk.eu.dal.net",
+    "host": "bitcoin.uk.eu.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bk3net.explosionirc.net",
+    "host": "bk3net.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "blackhole.mycooldude.info",
+    "host": "blackhole.mycooldude.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "blcknd.org",
+    "host": "blcknd.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bludger.sydney.au.irc-nerds.net",
+    "host": "bludger.sydney.au.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bluhole.mycooldude.info",
+    "host": "bluhole.mycooldude.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bofh.nl.smurfnet.ch",
+    "host": "bofh.nl.smurfnet.ch",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bots.pinoyirc.com",
+    "host": "bots.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "boxserv.kampungchat.org",
+    "host": "boxserv.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bozeman.irc-nerds.net",
+    "host": "bozeman.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "brlink.vircio.net",
+    "host": "brlink.vircio.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "brx.rj.brasnet.chat",
+    "host": "brx.rj.brasnet.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "brx.rj2.brasnet.chat",
+    "host": "brx.rj2.brasnet.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bsd.tilde.chat",
+    "host": "bsd.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bsdnet.in-addr.com",
+    "host": "bsdnet.in-addr.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bstorm.synchro.net",
+    "host": "bstorm.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bucharest.ro.emechnet.org",
+    "host": "bucharest.ro.emechnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bucharest.ro.eu.undernet.org",
+    "host": "bucharest.ro.eu.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "budapest.allnightcafe.com",
+    "host": "budapest.allnightcafe.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "budapest.hu.eu.undernet.org",
+    "host": "budapest.hu.eu.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "buenosaires.chateanos.com",
+    "host": "buenosaires.chateanos.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bug.chateo.org",
+    "host": "bug.chateo.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "buybsd.ny.us.irc-nerds.net",
+    "host": "buybsd.ny.us.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "bzyk.pirc.pl",
+    "host": "bzyk.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cadance.canternet.org",
+    "host": "cadance.canternet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cadmium.libera.chat",
+    "host": "cadmium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "calamansi.xchannel.org",
+    "host": "calamansi.xchannel.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "calamity.esper.net",
+    "host": "calamity.esper.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "calcium.libera.chat",
+    "host": "calcium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "caliope.globalchat.org",
+    "host": "caliope.globalchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "calypso.epiknet.org",
+    "host": "calypso.epiknet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "capelle.nl.eu.undernet.org",
+    "host": "capelle.nl.eu.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cardamom.teapot.chat",
+    "host": "cardamom.teapot.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cebu.ph.pinoyirc.com",
+    "host": "cebu.ph.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "centos.globalirc.it",
+    "host": "centos.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ceres.globalchat.org",
+    "host": "ceres.globalchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "changi.ix.sg.forumcerdas.net",
+    "host": "changi.ix.sg.forumcerdas.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "channels.irclink.net",
+    "host": "channels.irclink.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chaos.abandoned-irc.net",
+    "host": "chaos.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chaos.az.us.coreirc.net",
+    "host": "chaos.az.us.coreirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chaos.irc4fun.net",
+    "host": "chaos.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chat.bajubesi.org",
+    "host": "chat.bajubesi.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chat.efnet.org",
+    "host": "chat.efnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chat.freeunibg.eu",
+    "host": "chat.freeunibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chat.netirc.eu",
+    "host": "chat.netirc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chat.skychatz.org",
+    "host": "chat.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chatjunkies.org",
+    "host": "chatjunkies.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chatnb.irc4fun.net",
+    "host": "chatnb.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chatoshqip.albnetwork.org",
+    "host": "chatoshqip.albnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chatromanesc.com",
+    "host": "chatromanesc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chatterz.chateo.org",
+    "host": "chatterz.chateo.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chicago.il.us.underchat.org",
+    "host": "chicago.il.us.underchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chicago.il.us.undernet.org",
+    "host": "chicago.il.us.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chickenlittle.nl.eu.serenity-irc.net",
+    "host": "chickenlittle.nl.eu.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chillnet.org",
+    "host": "chillnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chirax.allnightcafe.com",
+    "host": "chirax.allnightcafe.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chiron.epiknet.org",
+    "host": "chiron.epiknet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chommik.pirc.pl",
+    "host": "chommik.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "choopa.nj.us.dal.net",
+    "host": "choopa.nj.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "chupacabra.ca.us.chatlounge.net",
+    "host": "chupacabra.ca.us.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "circe.sorcery.net",
+    "host": "circe.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "citlmbbs.synchro.net",
+    "host": "citlmbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cjsplace.synchro.net",
+    "host": "cjsplace.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "clank.techtronix.net",
+    "host": "clank.techtronix.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "closet.ouch.chat",
+    "host": "closet.ouch.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cloud.hybridirc.com",
+    "host": "cloud.hybridirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cloudchaser.canternet.org",
+    "host": "cloudchaser.canternet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "clovehitch.scoutlink.net",
+    "host": "clovehitch.scoutlink.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "clover.zeronode.net",
+    "host": "clover.zeronode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "clown.universalnet.org",
+    "host": "clown.universalnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "club.indecentes.net",
+    "host": "club.indecentes.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "club.ruschat.net",
+    "host": "club.ruschat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "clubs.retronode.org",
+    "host": "clubs.retronode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cobalt.unitedchat.org",
+    "host": "cobalt.unitedchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cobra.ircwebnet.com",
+    "host": "cobra.ircwebnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "coding.serenity-irc.net",
+    "host": "coding.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "coding2.serenity-irc.net",
+    "host": "coding2.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "coffee.us.p2p-network.net",
+    "host": "coffee.us.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cold.wet.girlco.cc",
+    "host": "cold.wet.girlco.cc",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cologne.snoonet.org",
+    "host": "cologne.snoonet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "comet.uk.eu.gtanet.com",
+    "host": "comet.uk.eu.gtanet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "commander.in.cf.gigairc.net",
+    "host": "commander.in.cf.gigairc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cookies.ca.us.chatnplay.org",
+    "host": "cookies.ca.us.chatnplay.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cool.chat",
+    "host": "cool.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "copper.libera.chat",
+    "host": "copper.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cord.atw.hu",
+    "host": "cord.atw.hu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "core.fxnet.org",
+    "host": "core.fxnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "core.ircx.net.pl",
+    "host": "core.ircx.net.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "core.technet.chat",
+    "host": "core.technet.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "core2.ircx.net.pl",
+    "host": "core2.ircx.net.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cosmic.tilde.chat",
+    "host": "cosmic.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cotterpin.dejatoons.net",
+    "host": "cotterpin.dejatoons.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "coulomb.oftc.net",
+    "host": "coulomb.oftc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "courbevoie2.fr.epiknet.org",
+    "host": "courbevoie2.fr.epiknet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "coven.irc4fun.net",
+    "host": "coven.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cowzone.uk.eu.serenity-irc.net",
+    "host": "cowzone.uk.eu.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cpugod.synchro.net",
+    "host": "cpugod.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crescent.cncirc.net",
+    "host": "crescent.cncirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crime.wixchat.org",
+    "host": "crime.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crippler.serveirc.com",
+    "host": "crippler.serveirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crippler.zapto.org",
+    "host": "crippler.zapto.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crispr.irc-nerds.net",
+    "host": "crispr.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "critical.relic.net",
+    "host": "critical.relic.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crkhouse.synchro.net",
+    "host": "crkhouse.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cronos.xevion.net",
+    "host": "cronos.xevion.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "crown.thestormnet.com",
+    "host": "crown.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cryptpad.amsterdam.nl.irc-nerds.net",
+    "host": "cryptpad.amsterdam.nl.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cs1.coders-irc.net",
+    "host": "cs1.coders-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cs3.coders-irc.net",
+    "host": "cs3.coders-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cvs.synchro.net",
+    "host": "cvs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "cymru.us.quakenet.org",
+    "host": "cymru.us.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dallas.tx.us.undernet.org",
+    "host": "dallas.tx.us.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dark-sky.scenep2p.net",
+    "host": "dark-sky.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "data.de.eu.irchighway.net",
+    "host": "data.de.eu.irchighway.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de-bawue.moep.chat",
+    "host": "de-bawue.moep.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de-bv.moep.chat",
+    "host": "de-bv.moep.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de-bw.moep.chat",
+    "host": "de-bw.moep.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de.irc.bg",
+    "host": "de.irc.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de.lowendirc.com",
+    "host": "de.lowendirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de.phat-net.de",
+    "host": "de.phat-net.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "de.ruschat.net",
+    "host": "de.ruschat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "debauched.thestormnet.com",
+    "host": "debauched.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "debian.globalirc.it",
+    "host": "debian.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "defiant.geekshed.net",
+    "host": "defiant.geekshed.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "delcatty.entropynet.net",
+    "host": "delcatty.entropynet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "delft.global-irc.eu",
+    "host": "delft.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "delphox.entropynet.net",
+    "host": "delphox.entropynet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "delta.thestormnet.com",
+    "host": "delta.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "demigod.nl.eu.coreirc.net",
+    "host": "demigod.nl.eu.coreirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "demon.fl.us.chatlounge.net",
+    "host": "demon.fl.us.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "demon.globalirc.it",
+    "host": "demon.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "deprecated.hax.irc.runxiyu.org",
+    "host": "deprecated.hax.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "derailed.exchat.net",
+    "host": "derailed.exchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "desiree.explosionirc.net",
+    "host": "desiree.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "desirenet.org",
+    "host": "desirenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "deutscher-chat.de",
+    "host": "deutscher-chat.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dev.bigua.org",
+    "host": "dev.bigua.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dev.irc.it",
+    "host": "dev.irc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dev.ircnet.ne.jp",
+    "host": "dev.ircnet.ne.jp",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dev.sanjose.ca.irc-nerds.net",
+    "host": "dev.sanjose.ca.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dgs.friendszone.org",
+    "host": "dgs.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dh-new.ircnet.ne.jp",
+    "host": "dh-new.ircnet.ne.jp",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dh.ircnet.ne.jp",
+    "host": "dh.ircnet.ne.jp",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "diamond.lizardirc.org",
+    "host": "diamond.lizardirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "digdist.synchro.net",
+    "host": "digdist.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "discord.canternet.org",
+    "host": "discord.canternet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "discord.freeunibg.eu",
+    "host": "discord.freeunibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "discut.c-vc.fr",
+    "host": "discut.c-vc.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "djslocker.scuttled.net",
+    "host": "djslocker.scuttled.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dmatrix.synchro.net",
+    "host": "dmatrix.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "docker.wetfish.net",
+    "host": "docker.wetfish.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "docksud.synchro.net",
+    "host": "docksud.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "domino.globalirc.it",
+    "host": "domino.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "doulos.chatopia.net",
+    "host": "doulos.chatopia.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "downlo.synchro.net",
+    "host": "downlo.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dr.synchro.net",
+    "host": "dr.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "drfun1.eyerc.net",
+    "host": "drfun1.eyerc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "driven.technet.chat",
+    "host": "driven.technet.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "drought.srcf.net",
+    "host": "drought.srcf.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dubai.chatlife.net",
+    "host": "dubai.chatlife.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dumuzi.synchro.net",
+    "host": "dumuzi.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dunamis.chatopia.net",
+    "host": "dunamis.chatopia.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dungeon.synchro.net",
+    "host": "dungeon.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dunkeld.chathispano.com",
+    "host": "dunkeld.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dusseldorf.friendszone.org",
+    "host": "dusseldorf.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dusty.out-dated.net",
+    "host": "dusty.out-dated.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dwgames.darkworld.chat",
+    "host": "dwgames.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "dynamo.digitalirc.org",
+    "host": "dynamo.digitalirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "earlgrey.teapot.chat",
+    "host": "earlgrey.teapot.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ecbbs.synchro.net",
+    "host": "ecbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eden.evilnet.org",
+    "host": "eden.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "edinburgh.chateanos.com",
+    "host": "edinburgh.chateanos.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "edinburgh.chathispano.com",
+    "host": "edinburgh.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ee.ircworld.org",
+    "host": "ee.ircworld.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ef.pyl.irc.runxiyu.org",
+    "host": "ef.pyl.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "efnet.deic.eu",
+    "host": "efnet.deic.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "efnet.tngnet.nl",
+    "host": "efnet.tngnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eiffel-tower.paris.fr.irc-nerds.net",
+    "host": "eiffel-tower.paris.fr.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eirene.lunarirc.net",
+    "host": "eirene.lunarirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "elixdelt.explosionirc.net",
+    "host": "elixdelt.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "elmo.onzin.org",
+    "host": "elmo.onzin.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "emerald.lizardirc.org",
+    "host": "emerald.lizardirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "endeavour.rs2i.net",
+    "host": "endeavour.rs2i.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "enschede.global-irc.eu",
+    "host": "enschede.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ensemble.synchro.net",
+    "host": "ensemble.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ent.synchro.net",
+    "host": "ent.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eon.ny.us.dal.net",
+    "host": "eon.ny.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eotlbbs.synchro.net",
+    "host": "eotlbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "erbium.libera.chat",
+    "host": "erbium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eris.berkeley.edu",
+    "host": "eris.berkeley.edu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eris.berkeley.edu.pl",
+    "host": "eris.berkeley.edu.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "es-lg.moep.chat",
+    "host": "es-lg.moep.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eternal.bigfurs.com",
+    "host": "eternal.bigfurs.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "etnies.kampungchat.org",
+    "host": "etnies.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eu.chat4all.org",
+    "host": "eu.chat4all.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eu1.relaxedirc.net",
+    "host": "eu1.relaxedirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eu3.chat4all.org",
+    "host": "eu3.chat4all.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "eulenspiegal.de.pureirc.com",
+    "host": "eulenspiegal.de.pureirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "euroserv.fr.quakenet.org",
+    "host": "euroserv.fr.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "evilcorp.irc-nerds.net",
+    "host": "evilcorp.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "extricat.synchro.net",
+    "host": "extricat.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fafnir.sorcery.net",
+    "host": "fafnir.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "falkor.dejatoons.net",
+    "host": "falkor.dejatoons.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fang.fr.eu.irchighway.net",
+    "host": "fang.fr.eu.irchighway.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fantasy.nl.allnetwork.org",
+    "host": "fantasy.nl.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fantasya.europnet.org",
+    "host": "fantasya.europnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fantasya2.europnet.org",
+    "host": "fantasya2.europnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fantasya3.europnet.org",
+    "host": "fantasya3.europnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "farmhouse.va.us.serenity-irc.net",
+    "host": "farmhouse.va.us.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fastvpn.nl.irc-nerds.net",
+    "host": "fastvpn.nl.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fawkes.knightirc.net",
+    "host": "fawkes.knightirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fdn.geeknode.org",
+    "host": "fdn.geeknode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fedora.globalirc.it",
+    "host": "fedora.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fermium.unitedchat.org",
+    "host": "fermium.unitedchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ferret.de.irc.krey.net",
+    "host": "ferret.de.irc.krey.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "feudalera.xertion.org",
+    "host": "feudalera.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fiery.ca.us.swiftirc.net",
+    "host": "fiery.ca.us.swiftirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fin.friendszone.org",
+    "host": "fin.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "firecrotch.fef.net",
+    "host": "firecrotch.fef.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "firehouse.knightirc.net",
+    "host": "firehouse.knightirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "firepacket.twistednet.org",
+    "host": "firepacket.twistednet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fixedpoint.eu.nl.undermind.net",
+    "host": "fixedpoint.eu.nl.undermind.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "flash.universalnet.org",
+    "host": "flash.universalnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "flex.wixchat.org",
+    "host": "flex.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "flexnet.flexchat.org",
+    "host": "flexnet.flexchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "flexstar.flexchat.org",
+    "host": "flexstar.flexchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "flood.srcf.net",
+    "host": "flood.srcf.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ford.tamarou.com",
+    "host": "ford.tamarou.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "foxtrot.theairlock.net",
+    "host": "foxtrot.theairlock.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fr.dbase.in.rs",
+    "host": "fr.dbase.in.rs",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fr.lourdes.ayochat.or.id",
+    "host": "fr.lourdes.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "frankfurt.de.eu.pureirc.com",
+    "host": "frankfurt.de.eu.pureirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "frankfurt.de.eu.underchat.org",
+    "host": "frankfurt.de.eu.underchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "frankfurt.de.pureirc.org",
+    "host": "frankfurt.de.pureirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "freedom.lostirc.org",
+    "host": "freedom.lostirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fresa.chatzona.org",
+    "host": "fresa.chatzona.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "frop.fef.net",
+    "host": "frop.fef.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "frop.taphouse.org",
+    "host": "frop.taphouse.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "frost.fsinf.at",
+    "host": "frost.fsinf.at",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "fu-berlin.de",
+    "host": "fu-berlin.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "funtopia.synchro.net",
+    "host": "funtopia.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "future.wetfish.net",
+    "host": "future.wetfish.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "futureseeds.sytes.net",
+    "host": "futureseeds.sytes.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "galaxy.skychatz.org",
+    "host": "galaxy.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gallium.libera.chat",
+    "host": "gallium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "games.skychatz.org",
+    "host": "games.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gamma.ptirc.org",
+    "host": "gamma.ptirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gargoyle.fr.eu.chatlounge.net",
+    "host": "gargoyle.fr.eu.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "geo.synchro.net",
+    "host": "geo.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gerbil.fef.net",
+    "host": "gerbil.fef.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "germany.flexchat.org",
+    "host": "germany.flexchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "getaway.kampungchat.org",
+    "host": "getaway.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ghost.tzirc.com",
+    "host": "ghost.tzirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "giove.orixon.org",
+    "host": "giove.orixon.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "glencoe.chathispano.com",
+    "host": "glencoe.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "glenda.ptnet.org",
+    "host": "glenda.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "global.globalirc.it",
+    "host": "global.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "global.us.allnetwork.org",
+    "host": "global.us.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "globalcrew.globalirc.it",
+    "host": "globalcrew.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "globalirc.globalirc.it",
+    "host": "globalirc.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "godzilla.jp.p2p-network.net",
+    "host": "godzilla.jp.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "godzilla.jp.pureirc.com",
+    "host": "godzilla.jp.pureirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "golgafrincham.nightstar.net",
+    "host": "golgafrincham.nightstar.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gravelines-fr.newnet.net",
+    "host": "gravelines-fr.newnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gravelines.global-irc.eu",
+    "host": "gravelines.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "greenhed.synchro.net",
+    "host": "greenhed.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "greenhole.mycooldude.info",
+    "host": "greenhole.mycooldude.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "greenie.blafasel.de",
+    "host": "greenie.blafasel.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "gryphon2.magicstar.net",
+    "host": "gryphon2.magicstar.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "guyver-ii.xertion.org",
+    "host": "guyver-ii.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "h.pyl.irc.runxiyu.org",
+    "host": "h.pyl.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "h1.ichat.ro",
+    "host": "h1.ichat.ro",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hactar.tawx.net",
+    "host": "hactar.tawx.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hades.irc-nerds.net",
+    "host": "hades.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "haha.evolnet.org",
+    "host": "haha.evolnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "halcyon.il.us.dal.net",
+    "host": "halcyon.il.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hammer.ny.us.xeromem.com",
+    "host": "hammer.ny.us.xeromem.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "harpy.de.spotchat.org",
+    "host": "harpy.de.spotchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hauts.fr.eu.pureirc.chat",
+    "host": "hauts.fr.eu.pureirc.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hauts.fr.eu.rustnet.org",
+    "host": "hauts.fr.eu.rustnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hawk.abandoned-irc.net",
+    "host": "hawk.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hax.irc.runxiyu.org",
+    "host": "hax.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hearts.retronode.org",
+    "host": "hearts.retronode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hedy.zoite.net",
+    "host": "hedy.zoite.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "heimdall.no.eu.abjects.net",
+    "host": "heimdall.no.eu.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "helix.oftc.net",
+    "host": "helix.oftc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hell.digitalirc.org",
+    "host": "hell.digitalirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hellbox.irc-nerds.net",
+    "host": "hellbox.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hellsing.xertion.org",
+    "host": "hellsing.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "helsinki.darkworld.chat",
+    "host": "helsinki.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "helsinki.friendszone.org",
+    "host": "helsinki.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hiena.pirc.pl",
+    "host": "hiena.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hivane.geeknode.org",
+    "host": "hivane.geeknode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hive.realirc.org",
+    "host": "hive.realirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hobbyspc.synchro.net",
+    "host": "hobbyspc.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hogwarts.irc-nerds.net",
+    "host": "hogwarts.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "holo.eu.unifiedchat.net",
+    "host": "holo.eu.unifiedchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hologram.synchro.net",
+    "host": "hologram.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hoon.ix.au.dal.net",
+    "host": "hoon.ix.au.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "horde.abandoned-irc.net",
+    "host": "horde.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "horizon.thestormnet.com",
+    "host": "horizon.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hosteons6.irc-nerds.net",
+    "host": "hosteons6.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hostsailor.ircnet.nl",
+    "host": "hostsailor.ircnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hostsailor.ro.quakenet.org",
+    "host": "hostsailor.ro.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hotdog.de.p2p-network.net",
+    "host": "hotdog.de.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hotep.taphouse.org",
+    "host": "hotep.taphouse.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "house.of.dragons.irc-nerds.net",
+    "host": "house.of.dragons.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hoval.synchro.net",
+    "host": "hoval.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hpbbs.synchro.net",
+    "host": "hpbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.au.ozorg.net",
+    "host": "hub.au.ozorg.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.bgirc.com",
+    "host": "hub.bgirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.bolchat.com",
+    "host": "hub.bolchat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.coders-irc.net",
+    "host": "hub.coders-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.efnet.us",
+    "host": "hub.efnet.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.endeavour.rs2i.net",
+    "host": "hub.endeavour.rs2i.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.fra.de.spotchat.org",
+    "host": "hub.fra.de.spotchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.global-irc.eu",
+    "host": "hub.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.globalchat.org",
+    "host": "hub.globalchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.hub4ever.org",
+    "host": "hub.hub4ever.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.ircitalia.it",
+    "host": "hub.ircitalia.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.jeko.org",
+    "host": "hub.jeko.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.necron.org",
+    "host": "hub.necron.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.newnet.net",
+    "host": "hub.newnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.relaxedirc.net",
+    "host": "hub.relaxedirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.scenep2p.net",
+    "host": "hub.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.se",
+    "host": "hub.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.skychatz.org",
+    "host": "hub.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.tm-irc.org",
+    "host": "hub.tm-irc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.uk",
+    "host": "hub.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.us",
+    "host": "hub.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hub.us.swiftirc.net",
+    "host": "hub.us.swiftirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hubeeone.be.eu.netrusk.net",
+    "host": "hubeeone.be.eu.netrusk.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hubtwa.fr.eu.netrusk.net",
+    "host": "hubtwa.fr.eu.netrusk.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hufflepuff.irc-nerds.net",
+    "host": "hufflepuff.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "huginn.sorcery.net",
+    "host": "huginn.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hurricane.us.unifiedchat.net",
+    "host": "hurricane.us.unifiedchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hydro.420-hightimes.com",
+    "host": "hydro.420-hightimes.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hydrogen.eu.se.undermind.net",
+    "host": "hydrogen.eu.se.undermind.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "hzbbs.synchro.net",
+    "host": "hzbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "icanhaz.geeknode.org",
+    "host": "icanhaz.geeknode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "icarus.nj.us.globalgamers.net",
+    "host": "icarus.nj.us.globalgamers.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "id.borneo.ayochat.or.id",
+    "host": "id.borneo.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "id.forum.ayochat.or.id",
+    "host": "id.forum.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "id.java.ayochat.or.id",
+    "host": "id.java.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "indovds.us.allnetwork.org",
+    "host": "indovds.us.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "infinity.skychatz.org",
+    "host": "infinity.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "insomnia.pirc.pl",
+    "host": "insomnia.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "inspired.universalirc.net",
+    "host": "inspired.universalirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "institute.tilde.chat",
+    "host": "institute.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ipv4.eris.berkeley.edu.pl",
+    "host": "ipv4.eris.berkeley.edu.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-5e48.darkscience.net",
+    "host": "irc-5e48.darkscience.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-9d27.darkscience.net",
+    "host": "irc-9d27.darkscience.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-ams.opera.com",
+    "host": "irc-ams.opera.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-be20.darkscience.net",
+    "host": "irc-be20.darkscience.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-ca1.alphachat.net",
+    "host": "irc-ca1.alphachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-cf73.darkscience.net",
+    "host": "irc-cf73.darkscience.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-de02.icq-chat.com",
+    "host": "irc-de02.icq-chat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-de1.alphachat.net",
+    "host": "irc-de1.alphachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-eace.darkscience.net",
+    "host": "irc-eace.darkscience.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-prod01.uio.no",
+    "host": "irc-prod01.uio.no",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-us1.alphachat.net",
+    "host": "irc-us1.alphachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc-us2.alphachat.net",
+    "host": "irc-us2.alphachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.0f.se",
+    "host": "irc.0f.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.0fucks.com",
+    "host": "irc.0fucks.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.18sohbet.net",
+    "host": "irc.18sohbet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.386.su",
+    "host": "irc.386.su",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aapple.no",
+    "host": "irc.aapple.no",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aaviera.com",
+    "host": "irc.aaviera.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.abvchat.bg",
+    "host": "irc.abvchat.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.adres.net",
+    "host": "irc.adres.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aical.org",
+    "host": "irc.aical.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aitvaras.eu",
+    "host": "irc.aitvaras.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ajhenderson.com",
+    "host": "irc.ajhenderson.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.al",
+    "host": "irc.al",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.albalove.ch",
+    "host": "irc.albalove.ch",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.albirc.com",
+    "host": "irc.albirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.allindiachat.net",
+    "host": "irc.allindiachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.allnightcafe.com",
+    "host": "irc.allnightcafe.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.amicachat.net",
+    "host": "irc.amicachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.androidircx.com",
+    "host": "irc.androidircx.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aniverse.com",
+    "host": "irc.aniverse.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.arnes.si",
+    "host": "irc.arnes.si",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aslchat.eu",
+    "host": "irc.aslchat.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.atw-inter.net",
+    "host": "irc.atw-inter.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.austnet.org",
+    "host": "irc.austnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.aysu.net",
+    "host": "irc.aysu.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bahane.org",
+    "host": "irc.bahane.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bahce.net",
+    "host": "irc.bahce.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bangladeshchat.net",
+    "host": "irc.bangladeshchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bazzite.net",
+    "host": "irc.bazzite.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bgbest.net",
+    "host": "irc.bgbest.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bgchat.net",
+    "host": "irc.bgchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bgcy.net",
+    "host": "irc.bgcy.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bgdns.eu",
+    "host": "irc.bgdns.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bgirc.com",
+    "host": "irc.bgirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bigua.org",
+    "host": "irc.bigua.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bisedoshqip.de",
+    "host": "irc.bisedoshqip.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bitchx.net",
+    "host": "irc.bitchx.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bitreich.org",
+    "host": "irc.bitreich.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.blafasel.de",
+    "host": "irc.blafasel.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bol-chat.com",
+    "host": "irc.bol-chat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bolchat.org",
+    "host": "irc.bolchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.brahman.bg",
+    "host": "irc.brahman.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.brasirc.com.br",
+    "host": "irc.brasirc.com.br",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.brazink.net",
+    "host": "irc.brazink.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.browsingtheinternet.com",
+    "host": "irc.browsingtheinternet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bsdbased.net",
+    "host": "irc.bsdbased.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.bsdforall.org",
+    "host": "irc.bsdforall.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.buzznet.ca",
+    "host": "irc.buzznet.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.buzznet.us",
+    "host": "irc.buzznet.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ca2.link-net.org",
+    "host": "irc.ca2.link-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cadde.gen.tr",
+    "host": "irc.cadde.gen.tr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cadde.org",
+    "host": "irc.cadde.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cc.tut.fi",
+    "host": "irc.cc.tut.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cellsys.net",
+    "host": "irc.cellsys.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chat.com.tr",
+    "host": "irc.chat.com.tr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatbg.eu",
+    "host": "irc.chatbg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatbg.info",
+    "host": "irc.chatbg.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatbg.net",
+    "host": "irc.chatbg.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chateamos.org",
+    "host": "irc.chateamos.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chateo.org",
+    "host": "irc.chateo.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatirc.net",
+    "host": "irc.chatirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatlife.net",
+    "host": "irc.chatlife.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatnb.ca",
+    "host": "irc.chatnb.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatnova.fr",
+    "host": "irc.chatnova.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatpat.net",
+    "host": "irc.chatpat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatsansar.com",
+    "host": "irc.chatsansar.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatteurs.net",
+    "host": "irc.chatteurs.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.chatviral.org",
+    "host": "irc.chatviral.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.choopa.net",
+    "host": "irc.choopa.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cob.de.euirc.net",
+    "host": "irc.cob.de.euirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.colosolutions.net",
+    "host": "irc.colosolutions.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.coolserver.org",
+    "host": "irc.coolserver.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.crazy-peeps.net",
+    "host": "irc.crazy-peeps.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cs.hut.fi",
+    "host": "irc.cs.hut.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cuplu.eu",
+    "host": "irc.cuplu.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cyberirc.org",
+    "host": "irc.cyberirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.cyberircd.net",
+    "host": "irc.cyberircd.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.d3x.ro",
+    "host": "irc.d3x.ro",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.d4rc.net",
+    "host": "irc.d4rc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.dal.net",
+    "host": "irc.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.data.lt",
+    "host": "irc.data.lt",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.datahata.by",
+    "host": "irc.datahata.by",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.datanet.ee",
+    "host": "irc.datanet.ee",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.dbase.in.rs",
+    "host": "irc.dbase.in.rs",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.de2.link-net.org",
+    "host": "irc.de2.link-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.deft.com",
+    "host": "irc.deft.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.deltaworlds.com",
+    "host": "irc.deltaworlds.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.derhostingbg.com",
+    "host": "irc.derhostingbg.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.discut.biz",
+    "host": "irc.discut.biz",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.diverseservers.nl",
+    "host": "irc.diverseservers.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.dotsrc.org",
+    "host": "irc.dotsrc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.dragonforce.my",
+    "host": "irc.dragonforce.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.du.se",
+    "host": "irc.du.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.dyne.org",
+    "host": "irc.dyne.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.echoircd.org",
+    "host": "irc.echoircd.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.edynamix.bg",
+    "host": "irc.edynamix.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.efes.net",
+    "host": "irc.efes.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.efnet.nl",
+    "host": "irc.efnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.elisa.fi",
+    "host": "irc.elisa.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.emechnet.org",
+    "host": "irc.emechnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ensc.rezosup.org",
+    "host": "irc.ensc.rezosup.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.eroin.org",
+    "host": "irc.eroin.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.eu.com",
+    "host": "irc.eu.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.famamundial.com",
+    "host": "irc.famamundial.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.faw-kes.de",
+    "host": "irc.faw-kes.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.felk.cvut.cz",
+    "host": "irc.felk.cvut.cz",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.figtub.com",
+    "host": "irc.figtub.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.flexchat.org",
+    "host": "irc.flexchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.flexnet.my",
+    "host": "irc.flexnet.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.flexstarhosting.com",
+    "host": "irc.flexstarhosting.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.foxfm.net",
+    "host": "irc.foxfm.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.freakshells.net",
+    "host": "irc.freakshells.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.freeirc.org",
+    "host": "irc.freeirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.freeunibg.eu",
+    "host": "irc.freeunibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.fromhell.ee",
+    "host": "irc.fromhell.ee",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.fromhell.fi",
+    "host": "irc.fromhell.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.fxnet.org",
+    "host": "irc.fxnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gedik.net",
+    "host": "irc.gedik.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gentoo.ca",
+    "host": "irc.gentoo.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gepime.com",
+    "host": "irc.gepime.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gextreme.com",
+    "host": "irc.gextreme.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gigachat.net",
+    "host": "irc.gigachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gimp.ca",
+    "host": "irc.gimp.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.global-irc.eu",
+    "host": "irc.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.goat.chat",
+    "host": "irc.goat.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gonul.org",
+    "host": "irc.gonul.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.goplay.bg",
+    "host": "irc.goplay.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gorillafattyfuckfest.com",
+    "host": "irc.gorillafattyfuckfest.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.gorna.net",
+    "host": "irc.gorna.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hagabard.com",
+    "host": "irc.hagabard.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.halilworks.com",
+    "host": "irc.halilworks.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hardnix.org",
+    "host": "irc.hardnix.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hashbang.sh",
+    "host": "irc.hashbang.sh",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hashmark.net",
+    "host": "irc.hashmark.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hasret.net",
+    "host": "irc.hasret.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hasret.org",
+    "host": "irc.hasret.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.homelien.no",
+    "host": "irc.homelien.no",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.hugewang.net",
+    "host": "irc.hugewang.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.i-tna.org",
+    "host": "irc.i-tna.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.initlab.org",
+    "host": "irc.initlab.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.inn.at.euirc.net",
+    "host": "irc.inn.at.euirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.inspirenet.org",
+    "host": "irc.inspirenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.interbg.org",
+    "host": "irc.interbg.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.intershells.ca",
+    "host": "irc.intershells.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.intershells.com",
+    "host": "irc.intershells.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.inthemansion.com",
+    "host": "irc.inthemansion.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ionic.at",
+    "host": "irc.ionic.at",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.irc2.pl",
+    "host": "irc.irc2.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.irc2.us",
+    "host": "irc.irc2.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircbg.com",
+    "host": "irc.ircbg.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircbg.net",
+    "host": "irc.ircbg.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircbytes.com",
+    "host": "irc.ircbytes.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircchat.net",
+    "host": "irc.ircchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.irccity.ru",
+    "host": "irc.irccity.ru",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircforever.org",
+    "host": "irc.ircforever.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircitalia.it",
+    "host": "irc.ircitalia.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircn.chat",
+    "host": "irc.ircn.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircnet.ca",
+    "host": "irc.ircnet.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircnet.su",
+    "host": "irc.ircnet.su",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircnet2.it",
+    "host": "irc.ircnet2.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircnow.org",
+    "host": "irc.ircnow.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircplus.nl",
+    "host": "irc.ircplus.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircserver.it",
+    "host": "irc.ircserver.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircsource.se",
+    "host": "irc.ircsource.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ircworld.org",
+    "host": "irc.ircworld.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.irczone.net",
+    "host": "irc.irczone.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.irule.net",
+    "host": "irc.irule.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.is-bg.com",
+    "host": "irc.is-bg.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.jakartachat.net",
+    "host": "irc.jakartachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.jmeeting.com",
+    "host": "irc.jmeeting.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.joulunet.org",
+    "host": "irc.joulunet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.jowisz24.pl",
+    "host": "irc.jowisz24.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.jpgdb.com",
+    "host": "irc.jpgdb.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.jujube.rpblc.net",
+    "host": "irc.jujube.rpblc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.jus.cx",
+    "host": "irc.jus.cx",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.justachat.com",
+    "host": "irc.justachat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.kalbim.net",
+    "host": "irc.kalbim.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.konnectchatirc.net",
+    "host": "irc.konnectchatirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.konusan.org",
+    "host": "irc.konusan.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lecturify.net",
+    "host": "irc.lecturify.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lewdchat.com",
+    "host": "irc.lewdchat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lichtsnel.nl",
+    "host": "irc.lichtsnel.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lim.de.euirc.net",
+    "host": "irc.lim.de.euirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lindenii.org",
+    "host": "irc.lindenii.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.link-net.be",
+    "host": "irc.link-net.be",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.link-net.fi",
+    "host": "irc.link-net.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.link-net.nl",
+    "host": "irc.link-net.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.linux.lt",
+    "host": "irc.linux.lt",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.linuxshellz.com",
+    "host": "irc.linuxshellz.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lix.fi",
+    "host": "irc.lix.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lomza.pl",
+    "host": "irc.lomza.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.losslessone.com",
+    "host": "irc.losslessone.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lt-tech.org",
+    "host": "irc.lt-tech.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.lut.fi",
+    "host": "irc.lut.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ma3x.eu",
+    "host": "irc.ma3x.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ma3x.net",
+    "host": "irc.ma3x.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.maddshark.com",
+    "host": "irc.maddshark.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mafiozio.ru",
+    "host": "irc.mafiozio.ru",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mavra.net",
+    "host": "irc.mavra.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.megahgroup.my",
+    "host": "irc.megahgroup.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mentalhaze.net",
+    "host": "irc.mentalhaze.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mirc.bg",
+    "host": "irc.mirc.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mirc.chat",
+    "host": "irc.mirc.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mixednuts.net",
+    "host": "irc.mixednuts.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mrejata.net",
+    "host": "irc.mrejata.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mufff.in",
+    "host": "irc.mufff.in",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.muhabbetnet.org",
+    "host": "irc.muhabbetnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.multihost.org",
+    "host": "irc.multihost.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.mzima.net",
+    "host": "irc.mzima.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.n-core.pl",
+    "host": "irc.n-core.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.naix.eu",
+    "host": "irc.naix.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nastycode.com",
+    "host": "irc.nastycode.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nbots.net",
+    "host": "irc.nbots.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nebula.fi",
+    "host": "irc.nebula.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.net.pl",
+    "host": "irc.net.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.network.ma",
+    "host": "irc.network.ma",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ninjaneering.net",
+    "host": "irc.ninjaneering.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nixsec.se",
+    "host": "irc.nixsec.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nl.pureirc.us",
+    "host": "irc.nl.pureirc.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nlnog.net",
+    "host": "irc.nlnog.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.no.link-net.org",
+    "host": "irc.no.link-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nrw.bastard-irc.net",
+    "host": "irc.nrw.bastard-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nrw2.bastard-irc.net",
+    "host": "irc.nrw2.bastard-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.nygus.org",
+    "host": "irc.nygus.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.oddprotocol.org",
+    "host": "irc.oddprotocol.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ohost.bg",
+    "host": "irc.ohost.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.okit.se",
+    "host": "irc.okit.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.omeglasohbet.net",
+    "host": "irc.omeglasohbet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.omicron.lt",
+    "host": "irc.omicron.lt",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.onlinedjradio.com",
+    "host": "irc.onlinedjradio.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.onlinefreechat.net",
+    "host": "irc.onlinefreechat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.openpiss.net",
+    "host": "irc.openpiss.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.optic-com.net",
+    "host": "irc.optic-com.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.orbitvortex.com",
+    "host": "irc.orbitvortex.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.oulu.fi",
+    "host": "irc.oulu.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.owns.us",
+    "host": "irc.owns.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.pakistantalk.net",
+    "host": "irc.pakistantalk.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.pathos.irc-mania.net",
+    "host": "irc.pathos.irc-mania.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.planetofnix.com",
+    "host": "irc.planetofnix.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.plevenbg.eu",
+    "host": "irc.plevenbg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.plexaholics.com",
+    "host": "irc.plexaholics.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.plovdivbg.net",
+    "host": "irc.plovdivbg.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.portakal.org",
+    "host": "irc.portakal.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ppnetworks.it",
+    "host": "irc.ppnetworks.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.prison.net",
+    "host": "irc.prison.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.priyobd.com",
+    "host": "irc.priyobd.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.prolink.bg",
+    "host": "irc.prolink.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.psychz.net",
+    "host": "irc.psychz.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.pureirc.ca",
+    "host": "irc.pureirc.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.pureirc.net",
+    "host": "irc.pureirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.pureirc.us",
+    "host": "irc.pureirc.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.qwertylife.ru",
+    "host": "irc.qwertylife.ru",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.radioclick.ro",
+    "host": "irc.radioclick.ro",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.rizon.cc",
+    "host": "irc.rizon.cc",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.rofbbs.com",
+    "host": "irc.rofbbs.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.roircop.info",
+    "host": "irc.roircop.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.romachat.org.uk",
+    "host": "irc.romachat.org.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.romaniachat.eu",
+    "host": "irc.romaniachat.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.root.bg",
+    "host": "irc.root.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.runxiyu.org",
+    "host": "irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ruschat.net",
+    "host": "irc.ruschat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.rusnet.org",
+    "host": "irc.rusnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sacredland.ca",
+    "host": "irc.sacredland.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sanesolutions.org",
+    "host": "irc.sanesolutions.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sbg.fr.euirc.net",
+    "host": "irc.sbg.fr.euirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.scenecritique.com",
+    "host": "irc.scenecritique.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.se.link-net.org",
+    "host": "irc.se.link-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sellinet.net",
+    "host": "irc.sellinet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sesgel.com",
+    "host": "irc.sesgel.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sesliadres.net",
+    "host": "irc.sesliadres.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.seslicadde.com",
+    "host": "irc.seslicadde.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sevgi.cc",
+    "host": "irc.sevgi.cc",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sg.pureirc.us",
+    "host": "irc.sg.pureirc.us",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.shell.oddprotocol.org",
+    "host": "irc.shell.oddprotocol.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.shells.bg",
+    "host": "irc.shells.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.shelltalk.net",
+    "host": "irc.shelltalk.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.silentforce.fi",
+    "host": "irc.silentforce.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sir-bastian.com",
+    "host": "irc.sir-bastian.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sisrv.net",
+    "host": "irc.sisrv.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.slacknet.net",
+    "host": "irc.slacknet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sladuri.com",
+    "host": "irc.sladuri.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.snt.utwente.nl",
+    "host": "irc.snt.utwente.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sohbet.net",
+    "host": "irc.sohbet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sohbetburada.com",
+    "host": "irc.sohbetburada.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.sosdg.org",
+    "host": "irc.sosdg.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.soyjak.st",
+    "host": "irc.soyjak.st",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.soyle.net",
+    "host": "irc.soyle.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.soylentnews.org",
+    "host": "irc.soylentnews.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.spadhausen.com",
+    "host": "irc.spadhausen.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.spidermaster.org",
+    "host": "irc.spidermaster.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.spidex.org",
+    "host": "irc.spidex.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ss23.geek.nz",
+    "host": "irc.ss23.geek.nz",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ssbulgaria.com",
+    "host": "irc.ssbulgaria.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.st-city.net",
+    "host": "irc.st-city.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.striked.org",
+    "host": "irc.striked.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.svalki.org",
+    "host": "irc.svalki.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.svilengrad.org",
+    "host": "irc.svilengrad.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.swepipe.net",
+    "host": "irc.swepipe.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.swepipe.se",
+    "host": "irc.swepipe.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.swipnet.se",
+    "host": "irc.swipnet.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.szczecin.pl",
+    "host": "irc.szczecin.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.takime.net",
+    "host": "irc.takime.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.tchat-nehon.fr",
+    "host": "irc.tchat-nehon.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.techitmedia.net",
+    "host": "irc.techitmedia.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.techrights.org",
+    "host": "irc.techrights.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.theonering.net",
+    "host": "irc.theonering.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.theplacetochat.net",
+    "host": "irc.theplacetochat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.thunderirc.net",
+    "host": "irc.thunderirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.tngnet.com",
+    "host": "irc.tngnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.tohands.org",
+    "host": "irc.tohands.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.topolovgrad.org",
+    "host": "irc.topolovgrad.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.transadvice.org",
+    "host": "irc.transadvice.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.trendsohbet.com",
+    "host": "irc.trendsohbet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.troian.net",
+    "host": "irc.troian.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.turna.net",
+    "host": "irc.turna.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.tutipila.com",
+    "host": "irc.tutipila.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.tydel.net",
+    "host": "irc.tydel.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.tzirc.com",
+    "host": "irc.tzirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.ufnet.org",
+    "host": "irc.ufnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.uio.no",
+    "host": "irc.uio.no",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.unacs.bg",
+    "host": "irc.unacs.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.underworld.no",
+    "host": "irc.underworld.no",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.unibg.eu",
+    "host": "irc.unibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.unibg.net",
+    "host": "irc.unibg.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.universochat.com",
+    "host": "irc.universochat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.unixbg.net",
+    "host": "irc.unixbg.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.unixbg.org",
+    "host": "irc.unixbg.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.unworldly.nl",
+    "host": "irc.unworldly.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.us-ca2.link-net.org",
+    "host": "irc.us-ca2.link-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.us.ircnet.net",
+    "host": "irc.us.ircnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.uworld.se",
+    "host": "irc.uworld.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.virtualife.org",
+    "host": "irc.virtualife.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.vlefterov.com",
+    "host": "irc.vlefterov.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.voodoonet.biz",
+    "host": "irc.voodoonet.biz",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.warszawa.pl",
+    "host": "irc.warszawa.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.wup.nu",
+    "host": "irc.wup.nu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.xirc.net",
+    "host": "irc.xirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.xtremeprovider.com",
+    "host": "irc.xtremeprovider.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.xxxchatters.com",
+    "host": "irc.xxxchatters.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zchat.org",
+    "host": "irc.zchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zemra.org",
+    "host": "irc.zemra.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zik.chat",
+    "host": "irc.zik.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zonab18.com",
+    "host": "irc.zonab18.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zonebg.com",
+    "host": "irc.zonebg.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zora.bg",
+    "host": "irc.zora.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc.zougla.gr",
+    "host": "irc.zougla.gr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc0.accum.se",
+    "host": "irc0.accum.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc01-black.librairc.net",
+    "host": "irc01-black.librairc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc01-white.librairc.net",
+    "host": "irc01-white.librairc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.accum.se",
+    "host": "irc1.accum.se",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.chaat.fr",
+    "host": "irc1.chaat.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.chattersnet.nl",
+    "host": "irc1.chattersnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.chattersweb.nl",
+    "host": "irc1.chattersweb.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.irccloud.com",
+    "host": "irc1.irccloud.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.lug.ro",
+    "host": "irc1.lug.ro",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.net-tchat.fr",
+    "host": "irc1.net-tchat.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.pilgerer.org",
+    "host": "irc1.pilgerer.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.serverfreakz.de",
+    "host": "irc1.serverfreakz.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.slackware.eu",
+    "host": "irc1.slackware.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc1.thebdsmchat.com",
+    "host": "irc1.thebdsmchat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc10.otakubox.de",
+    "host": "irc10.otakubox.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc12.otakubox.de",
+    "host": "irc12.otakubox.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.0fucks.com",
+    "host": "irc2.0fucks.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.brasirc.com.br",
+    "host": "irc2.brasirc.com.br",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.chaat.fr",
+    "host": "irc2.chaat.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.chattersnet.nl",
+    "host": "irc2.chattersnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.choopa.net",
+    "host": "irc2.choopa.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.hu",
+    "host": "irc2.hu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.inet.fi",
+    "host": "irc2.inet.fi",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.irccloud.com",
+    "host": "irc2.irccloud.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.ircplus.nl",
+    "host": "irc2.ircplus.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.lug.ro",
+    "host": "irc2.lug.ro",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.net-tchat.fr",
+    "host": "irc2.net-tchat.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.pilgerer.org",
+    "host": "irc2.pilgerer.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.serverfreakz.de",
+    "host": "irc2.serverfreakz.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.thebdsmchat.com",
+    "host": "irc2.thebdsmchat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.turna.net",
+    "host": "irc2.turna.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc2.xxxchatters.com",
+    "host": "irc2.xxxchatters.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc3.chattersnet.nl",
+    "host": "irc3.chattersnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc3.net-tchat.fr",
+    "host": "irc3.net-tchat.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc3.otakubox.de",
+    "host": "irc3.otakubox.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc3.serverfreakz.de",
+    "host": "irc3.serverfreakz.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "irc4.netgoth.org.uk",
+    "host": "irc4.netgoth.org.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircbytes.thestormnet.com",
+    "host": "ircbytes.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircd-test.link-net.org",
+    "host": "ircd-test.link-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircd.aaviera.com",
+    "host": "ircd.aaviera.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircd.unix.id.lv",
+    "host": "ircd.unix.id.lv",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircd01.skyrock.net",
+    "host": "ircd01.skyrock.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircd02.skyrock.net",
+    "host": "ircd02.skyrock.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircnet.clue.be",
+    "host": "ircnet.clue.be",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircnet.hostsailor.com",
+    "host": "ircnet.hostsailor.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircnet.tempest.net",
+    "host": "ircnet.tempest.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircnet.tngnet.nl",
+    "host": "ircnet.tngnet.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircnet2.ircnet.ne.jp",
+    "host": "ircnet2.ircnet.ne.jp",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircnet2.spadhausen.com",
+    "host": "ircnet2.spadhausen.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircplus.nl",
+    "host": "ircplus.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircsource.hellhoundslair.org",
+    "host": "ircsource.hellhoundslair.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircsource.irc.uk",
+    "host": "ircsource.irc.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircsource.irssi.org",
+    "host": "ircsource.irssi.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircsource.nl",
+    "host": "ircsource.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ircsource.quoservers.net",
+    "host": "ircsource.quoservers.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "iridium.libera.chat",
+    "host": "iridium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "istana.il.us.dal.net",
+    "host": "istana.il.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ix.dal.net",
+    "host": "ix.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jagged.ca.us.abjects.net",
+    "host": "jagged.ca.us.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jaguar.station51.net",
+    "host": "jaguar.station51.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jakamedia.de.evochat.id",
+    "host": "jakamedia.de.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jakarta.darkworld.chat",
+    "host": "jakarta.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "janedoe.fr.eu.abjects.net",
+    "host": "janedoe.fr.eu.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jasper.lizardirc.org",
+    "host": "jasper.lizardirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "java.skychatz.org",
+    "host": "java.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "java.spidermaster.org",
+    "host": "java.spidermaster.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "java.wixchat.org",
+    "host": "java.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jersey.shore.irc-nerds.net",
+    "host": "jersey.shore.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jingo.ix.us.dal.net",
+    "host": "jingo.ix.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jjambbs.synchro.net",
+    "host": "jjambbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jmt0.darkfasel.net",
+    "host": "jmt0.darkfasel.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jmt1.darkfasel.net",
+    "host": "jmt1.darkfasel.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jowisz.pirc.pl",
+    "host": "jowisz.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "jupiter.chateamos.org",
+    "host": "jupiter.chateamos.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kadarin.fr.eu.netrusk.net",
+    "host": "kadarin.fr.eu.netrusk.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kali.globalirc.it",
+    "host": "kali.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kaos.kampungchat.org",
+    "host": "kaos.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "karkar.abandoned-irc.net",
+    "host": "karkar.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "karma.freenode.net",
+    "host": "karma.freenode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kenny.chatspike.net",
+    "host": "kenny.chatspike.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kernel.scenep2p.net",
+    "host": "kernel.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kia.synchro.net",
+    "host": "kia.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kielbasa.warsaw.pl.irc-nerds.net",
+    "host": "kielbasa.warsaw.pl.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "killer.abandoned-irc.net",
+    "host": "killer.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kinetic.oftc.net",
+    "host": "kinetic.oftc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kiwi.ix.nz.dal.net",
+    "host": "kiwi.ix.nz.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kk4qbn.synchro.net",
+    "host": "kk4qbn.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kn6q.synchro.net",
+    "host": "kn6q.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "koala.eyerc.net",
+    "host": "koala.eyerc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "koala.ix.au.dal.net",
+    "host": "koala.ix.au.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "koala.vc.au.dal.net",
+    "host": "koala.vc.au.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kote3.lugs.ch",
+    "host": "kote3.lugs.ch",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kozojeb.pl.irc-nerds.net",
+    "host": "kozojeb.pl.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kratos.cncirc.net",
+    "host": "kratos.cncirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kush.420-hightimes.com",
+    "host": "kush.420-hightimes.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "kutai.it.allnetwork.org",
+    "host": "kutai.it.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lab.fxnet.org",
+    "host": "lab.fxnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lab.simosnap.com",
+    "host": "lab.simosnap.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lair.nl.eu.dal.net",
+    "host": "lair.nl.eu.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lake.ca.us.xeromem.com",
+    "host": "lake.ca.us.xeromem.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lamia.uk.spotchat.org",
+    "host": "lamia.uk.spotchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lan-team.de.eu.gamesurge.net",
+    "host": "lan-team.de.eu.gamesurge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lasvegas.ix.evilnet.org",
+    "host": "lasvegas.ix.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "laud.ix.us.dal.net",
+    "host": "laud.ix.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lc.pyl.irc.runxiyu.org",
+    "host": "lc.pyl.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lead.libera.chat",
+    "host": "lead.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "leaky.shirogitsune.net",
+    "host": "leaky.shirogitsune.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "leechme.scenep2p.net",
+    "host": "leechme.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "leptir.bolchat.com",
+    "host": "leptir.bolchat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "leras.ruschat.net",
+    "host": "leras.ruschat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "liberdade.ptnet.org",
+    "host": "liberdade.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "liberty.irc.gtanet.com",
+    "host": "liberty.irc.gtanet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "library.inthemansion.com",
+    "host": "library.inthemansion.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "librenet.europnet.org",
+    "host": "librenet.europnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "life.openjoke.org",
+    "host": "life.openjoke.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "likho.sorcery.net",
+    "host": "likho.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lima.chatzona.org",
+    "host": "lima.chatzona.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lindenii.org",
+    "host": "lindenii.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lindnet.eu.se.undermind.net",
+    "host": "lindnet.eu.se.undermind.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "link.justtrance.net",
+    "host": "link.justtrance.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "linknet.sh.cvut.cz",
+    "host": "linknet.sh.cvut.cz",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lion.anthrochat.net",
+    "host": "lion.anthrochat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lion.sg.p2p-network.net",
+    "host": "lion.sg.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lion.tx.us.dal.net",
+    "host": "lion.tx.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "liquid.oftc.net",
+    "host": "liquid.oftc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lisbeth.ca.unifiedchat.net",
+    "host": "lisbeth.ca.unifiedchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lista.globalirc.it",
+    "host": "lista.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lithium.libera.chat",
+    "host": "lithium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "london.global-irc.eu",
+    "host": "london.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "london.globalirc.it",
+    "host": "london.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "london.uk.eu.starlink.org",
+    "host": "london.uk.eu.starlink.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "londra.desirenet.org",
+    "host": "londra.desirenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lonestar.us.pureirc.com",
+    "host": "lonestar.us.pureirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lorddank.ouch.chat",
+    "host": "lorddank.ouch.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "losangeles.ca.us.undernet.org",
+    "host": "losangeles.ca.us.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "losangeles.sacredland.ca",
+    "host": "losangeles.sacredland.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lostcaus.synchro.net",
+    "host": "lostcaus.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lotan.irc.quickfox.net",
+    "host": "lotan.irc.quickfox.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lounge.sacredland.ca",
+    "host": "lounge.sacredland.ca",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lowyat.kampungchat.org",
+    "host": "lowyat.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "loyalty.ix.us.dal.net",
+    "host": "loyalty.ix.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lu.ircsource.irc.uk",
+    "host": "lu.ircsource.irc.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lua.hax.irc.andrewyu.org",
+    "host": "lua.hax.irc.andrewyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lua.hax.irc.runxiyu.org",
+    "host": "lua.hax.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lucario.entropynet.net",
+    "host": "lucario.entropynet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ludost.net",
+    "host": "ludost.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "luna.afternet.org",
+    "host": "luna.afternet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lunarout.synchro.net",
+    "host": "lunarout.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lupus.tx.us.darkvoltage.net",
+    "host": "lupus.tx.us.darkvoltage.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lust.jp.as.synirc.net",
+    "host": "lust.jp.as.synirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "lynx.mindforge.org",
+    "host": "lynx.mindforge.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "madness.twistednet.org",
+    "host": "madness.twistednet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "madrid.es.eu.underchat.org",
+    "host": "madrid.es.eu.underchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mafia.chicago.il.irc-nerds.net",
+    "host": "mafia.chicago.il.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "magnet.rizon.net",
+    "host": "magnet.rizon.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "magnumuk.synchro.net",
+    "host": "magnumuk.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "makati.ph.pinoyirc.com",
+    "host": "makati.ph.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "manila.ph.netirc.eu",
+    "host": "manila.ph.netirc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "maple.ca.p2p-network.net",
+    "host": "maple.ca.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "maramures.netirc.eu",
+    "host": "maramures.netirc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "marble.ca.us.xeromem.com",
+    "host": "marble.ca.us.xeromem.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "marijuana.irc-nerds.net",
+    "host": "marijuana.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "marisa.seraphimlabs.net",
+    "host": "marisa.seraphimlabs.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mars.inframonde.org",
+    "host": "mars.inframonde.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "marte.orixon.org",
+    "host": "marte.orixon.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "martel.seraphimlabs.net",
+    "host": "martel.seraphimlabs.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "martini.cncirc.net",
+    "host": "martini.cncirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mascalzonelatino.explosionirc.net",
+    "host": "mascalzonelatino.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "masterco.synchro.net",
+    "host": "masterco.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "matrix-irc.discut.biz",
+    "host": "matrix-irc.discut.biz",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "matrix.chatlife.net",
+    "host": "matrix.chatlife.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "matrix.cyberirc.org",
+    "host": "matrix.cyberirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "matrix.skychatz.org",
+    "host": "matrix.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "matrix.universalnet.org",
+    "host": "matrix.universalnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mayan.thestormnet.com",
+    "host": "mayan.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "meadowlake.ca.pinoyirc.com",
+    "host": "meadowlake.ca.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "medusa.nl.eu.chatlounge.net",
+    "host": "medusa.nl.eu.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "megah.flexchat.org",
+    "host": "megah.flexchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "melocoton.chatzona.org",
+    "host": "melocoton.chatzona.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mercury.libera.chat",
+    "host": "mercury.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "miami.darkworld.chat",
+    "host": "miami.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "miami.fl.us.undernet.org",
+    "host": "miami.fl.us.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "miami.us.pureirc.com",
+    "host": "miami.us.pureirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "miauw.nl.smurfnet.ch",
+    "host": "miauw.nl.smurfnet.ch",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "minime.fef.net",
+    "host": "minime.fef.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mirage.thestormnet.com",
+    "host": "mirage.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moan.thestormnet.com",
+    "host": "moan.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mobil.kalbim.net",
+    "host": "mobil.kalbim.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mobil.mavra.net",
+    "host": "mobil.mavra.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mobilssl.mavra.net",
+    "host": "mobilssl.mavra.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "molybdenum.libera.chat",
+    "host": "molybdenum.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "monica.explosionirc.net",
+    "host": "monica.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "monster.va.us.synirc.net",
+    "host": "monster.va.us.synirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "montreal.ca.whatnet.org",
+    "host": "montreal.ca.whatnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "montreal.evilnet.org",
+    "host": "montreal.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "montreal.morphie.net",
+    "host": "montreal.morphie.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moo.slashnet.org",
+    "host": "moo.slashnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moo.us.p2p-network.net",
+    "host": "moo.us.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moonlight.friendsirc.com",
+    "host": "moonlight.friendsirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moople.kbfail.net",
+    "host": "moople.kbfail.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moosejaw.ca.pinoyirc.com",
+    "host": "moosejaw.ca.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moraine.de.eu.atrum.org",
+    "host": "moraine.de.eu.atrum.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "morana.slochat.net",
+    "host": "morana.slochat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "moroso.ca.us.shadowworld.net",
+    "host": "moroso.ca.us.shadowworld.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mortal.tx.us.abjects.net",
+    "host": "mortal.tx.us.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "muninn.sorcery.net",
+    "host": "muninn.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "mybbs.synchro.net",
+    "host": "mybbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nebula.uk.eu.darkmyst.org",
+    "host": "nebula.uk.eu.darkmyst.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "neptune.ny.us.abjects.net",
+    "host": "neptune.ny.us.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "neptuno.chateamos.org",
+    "host": "neptuno.chateamos.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "neptuno.chateanos.com",
+    "host": "neptuno.chateanos.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "neptuno.delaustral.com",
+    "host": "neptuno.delaustral.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nerim.fr.eu.evolu.net",
+    "host": "nerim.fr.eu.evolu.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "netactuate.us.quakenet.org",
+    "host": "netactuate.us.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "netara.id.allnetwork.org",
+    "host": "netara.id.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "netherlands.friendszone.org",
+    "host": "netherlands.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "netsplit.pirc.pl",
+    "host": "netsplit.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "neutrino.scenep2p.net",
+    "host": "neutrino.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newark.nj.us.worldirc.org",
+    "host": "newark.nj.us.worldirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newhub.tilde.chat",
+    "host": "newhub.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newnigma2.abad1dea.to",
+    "host": "newnigma2.abad1dea.to",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newyork.griefplay.net",
+    "host": "newyork.griefplay.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newyork.ix.evilnet.org",
+    "host": "newyork.ix.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newyork.nationchat.org",
+    "host": "newyork.nationchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newyork.ny.us.starlink.org",
+    "host": "newyork.ny.us.starlink.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "newyork.us.whatnet.org",
+    "host": "newyork.us.whatnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nexus.hybridirc.com",
+    "host": "nexus.hybridirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nexus.nl.eu.mixxnet.net",
+    "host": "nexus.nl.eu.mixxnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nexus.scenep2p.net",
+    "host": "nexus.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nexus.skychatz.org",
+    "host": "nexus.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nexus.uk.irc.krey.net",
+    "host": "nexus.uk.irc.krey.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nibiru.ix.eu.dal.net",
+    "host": "nibiru.ix.eu.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ninja.technet.chat",
+    "host": "ninja.technet.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nite.evilnet.org",
+    "host": "nite.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nl.amsterdam.ayochat.or.id",
+    "host": "nl.amsterdam.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nl.lowendirc.com",
+    "host": "nl.lowendirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nl.ruschat.net",
+    "host": "nl.ruschat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nobel.se.p2p-network.net",
+    "host": "nobel.se.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nodes.ircitalia.it",
+    "host": "nodes.ircitalia.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "noirhole.mycooldude.info",
+    "host": "noirhole.mycooldude.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nonstop.ix.me.dal.net",
+    "host": "nonstop.ix.me.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nova.irc.it",
+    "host": "nova.irc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nsa.packetscanner.net",
+    "host": "nsa.packetscanner.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nuc.uplinkcorp.net",
+    "host": "nuc.uplinkcorp.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nuclearfallout.wa.us.gamesurge.net",
+    "host": "nuclearfallout.wa.us.gamesurge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nuremberg.de.eu.asylumnet.org",
+    "host": "nuremberg.de.eu.asylumnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nuremberg.nationchat.org",
+    "host": "nuremberg.nationchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nyx.synchro.net",
+    "host": "nyx.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "nz.ircsource.irc.uk",
+    "host": "nz.ircsource.irc.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oban.chathispano.com",
+    "host": "oban.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "observatory.inthemansion.com",
+    "host": "observatory.inthemansion.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "odin.hub.sorcery.net",
+    "host": "odin.hub.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "odyssey.de.eu.darkmyst.org",
+    "host": "odyssey.de.eu.darkmyst.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "odyssey.irc4fun.net",
+    "host": "odyssey.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oftc.pyl.irc.runxiyu.org",
+    "host": "oftc.pyl.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oi.ix.au.dal.net",
+    "host": "oi.ix.au.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "omega.ptirc.org",
+    "host": "omega.ptirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "one.paranode.net",
+    "host": "one.paranode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "online-dc2.fr.eu.evolu.net",
+    "host": "online-dc2.fr.eu.evolu.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "opal.lizardirc.org",
+    "host": "opal.lizardirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "open.irc2.net",
+    "host": "open.irc2.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "openirc.snt.utwente.nl",
+    "host": "openirc.snt.utwente.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oper.sohbet.net",
+    "host": "oper.sohbet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "operstats.shadowworld.net",
+    "host": "operstats.shadowworld.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "or.id.allnetwork.org",
+    "host": "or.id.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "orgrimmar.evilnet.org",
+    "host": "orgrimmar.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "osiris.realirc.org",
+    "host": "osiris.realirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oslo.netirc.eu",
+    "host": "oslo.netirc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oslo.no.eu.irclink.net",
+    "host": "oslo.no.eu.irclink.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oslo.no.eu.neko-net.org",
+    "host": "oslo.no.eu.neko-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oslo.no.eu.undernet.org",
+    "host": "oslo.no.eu.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "oslo2.no.eu.neko-net.org",
+    "host": "oslo2.no.eu.neko-net.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "osmium.libera.chat",
+    "host": "osmium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "outwest.synchro.net",
+    "host": "outwest.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "overdrive.xertion.org",
+    "host": "overdrive.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ovh.fr.eu.rustnet.org",
+    "host": "ovh.fr.eu.rustnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ovh.fr.pureirc.org",
+    "host": "ovh.fr.pureirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "packets.wetfish.net",
+    "host": "packets.wetfish.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "padang.us.evochat.id",
+    "host": "padang.us.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pagan.friendszone.org",
+    "host": "pagan.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "palermo.hackint.org",
+    "host": "palermo.hackint.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pantheon3.yossman.net",
+    "host": "pantheon3.yossman.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "panther.furnet.org",
+    "host": "panther.furnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "paradise.is.mu.gigairc.net",
+    "host": "paradise.is.mu.gigairc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "paralysis.tx.us.darkmyst.org",
+    "host": "paralysis.tx.us.darkmyst.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "paranoia.scenep2p.net",
+    "host": "paranoia.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "partyline.mefalcon.de",
+    "host": "partyline.mefalcon.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "penumbra.zoite.net",
+    "host": "penumbra.zoite.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "perun.slochat.net",
+    "host": "perun.slochat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pharcyde.synchro.net",
+    "host": "pharcyde.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "phoenix.nsw.au.darkmyst.org",
+    "host": "phoenix.nsw.au.darkmyst.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pholos.epiknet.org",
+    "host": "pholos.epiknet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "phq.abandoned-irc.net",
+    "host": "phq.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "picard.tx.irc-nerds.net",
+    "host": "picard.tx.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pieroken.explosionirc.net",
+    "host": "pieroken.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pine.forestnet.org",
+    "host": "pine.forestnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pine.fxnet.org",
+    "host": "pine.fxnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pinkyandthebrain.irc-nerds.net",
+    "host": "pinkyandthebrain.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "piss-flavoured.magicannon.com",
+    "host": "piss-flavoured.magicannon.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "piss.in.my.coldwet.net",
+    "host": "piss.in.my.coldwet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "piss.in.my.pasteurizedbathwater.com",
+    "host": "piss.in.my.pasteurizedbathwater.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "piss.irc.jmjl.wer.ee",
+    "host": "piss.irc.jmjl.wer.ee",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "piss.it",
+    "host": "piss.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "plas.netsplit.nl",
+    "host": "plas.netsplit.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "platinum.libera.chat",
+    "host": "platinum.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "plutone.orixon.org",
+    "host": "plutone.orixon.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "poltergeist.nj.us.chatlounge.net",
+    "host": "poltergeist.nj.us.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pool.dal.net",
+    "host": "pool.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "portakal.org",
+    "host": "portakal.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "portland.morphie.net",
+    "host": "portland.morphie.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "portlane.se.eu.zenet.org",
+    "host": "portlane.se.eu.zenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "poznan.irc.pl",
+    "host": "poznan.irc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "praetorians.irc-nerds.net",
+    "host": "praetorians.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pratamatech.de.evochat.id",
+    "host": "pratamatech.de.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "primenet.synchro.net",
+    "host": "primenet.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "prism.twistednet.org",
+    "host": "prism.twistednet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "prometheus.irc4fun.net",
+    "host": "prometheus.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "prometheus.simosnap.com",
+    "host": "prometheus.simosnap.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "prothid.ny.us.gamesurge.net",
+    "host": "prothid.ny.us.gamesurge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ptservidor.ptnet.org",
+    "host": "ptservidor.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "public-irc.w3.org",
+    "host": "public-irc.w3.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "puddle.srcf.net",
+    "host": "puddle.srcf.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "punch.wa.us.dal.net",
+    "host": "punch.wa.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "purplehaze.420-hightimes.com",
+    "host": "purplehaze.420-hightimes.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "py.hax.irc.andrewyu.org",
+    "host": "py.hax.irc.andrewyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "py.hax.irc.runxiyu.org",
+    "host": "py.hax.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pylink.irc-nerds.net",
+    "host": "pylink.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "pylink.runxiyu.org",
+    "host": "pylink.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "quantum.scenep2p.net",
+    "host": "quantum.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "quantum.us.emechnet.org",
+    "host": "quantum.us.emechnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "quebec.global-irc.eu",
+    "host": "quebec.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "quoservers.evilnet.org",
+    "host": "quoservers.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "raccooncity.azzurra.chat",
+    "host": "raccooncity.azzurra.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "racknerd.irc-nerds.net",
+    "host": "racknerd.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "racknerd6.irc-nerds.net",
+    "host": "racknerd6.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "radiant.wa.us.chat-solutions.org",
+    "host": "radiant.wa.us.chat-solutions.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "railgun.xertion.org",
+    "host": "railgun.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rak.fr.evochat.id",
+    "host": "rak.fr.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ramona.ptnet.org",
+    "host": "ramona.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rangers.ix.us.dal.net",
+    "host": "rangers.ix.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rapport.ix.us.dal.net",
+    "host": "rapport.ix.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rasp5.zeolia.chat",
+    "host": "rasp5.zeolia.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "raspberry.cakeforce.co.uk",
+    "host": "raspberry.cakeforce.co.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rattler.darenet.org",
+    "host": "rattler.darenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "reality.synchro.net",
+    "host": "reality.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "redemption.ix.us.dal.net",
+    "host": "redemption.ix.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "redhat.globalirc.it",
+    "host": "redhat.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rena.xertion.org",
+    "host": "rena.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "resurrection.simosnap.com",
+    "host": "resurrection.simosnap.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "richardf.synchro.net",
+    "host": "richardf.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ricksbbs.synchro.net",
+    "host": "ricksbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rilek.kampungchat.org",
+    "host": "rilek.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rising.morphie.net",
+    "host": "rising.morphie.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rivendell.ouch.chat",
+    "host": "rivendell.ouch.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rizon.hostsailor.com",
+    "host": "rizon.hostsailor.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rizonbnc.eu.rizon.net",
+    "host": "rizonbnc.eu.rizon.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "robotics.irc-nerds.net",
+    "host": "robotics.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rock.tzirc.com",
+    "host": "rock.tzirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "roses.retronode.org",
+    "host": "roses.retronode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rotterdam.global-irc.eu",
+    "host": "rotterdam.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "roubaix.fr.epiknet.org",
+    "host": "roubaix.fr.epiknet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rpnet.synchro.net",
+    "host": "rpnet.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rsr.synchro.net",
+    "host": "rsr.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ru.ruschat.net",
+    "host": "ru.ruschat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "rubicon.geekshed.net",
+    "host": "rubicon.geekshed.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ruby.azzurra.chat",
+    "host": "ruby.azzurra.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ruthenium.libera.chat",
+    "host": "ruthenium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sabah.wirachat.my",
+    "host": "sabah.wirachat.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sabre.nl.eu.gtanet.com",
+    "host": "sabre.nl.eu.gtanet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "saguaro.thestormnet.com",
+    "host": "saguaro.thestormnet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sakura.jp.as.dal.net",
+    "host": "sakura.jp.as.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sandwich.skyirc.net",
+    "host": "sandwich.skyirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sanjose.nationchat.org",
+    "host": "sanjose.nationchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sao-paulo.newnet.net",
+    "host": "sao-paulo.newnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "saskatoon.ca.pinoyirc.com",
+    "host": "saskatoon.ca.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sasl.irc.atw.hu",
+    "host": "sasl.irc.atw.hu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "satunet.id.evochat.id",
+    "host": "satunet.id.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "saturn.irc4fun.net",
+    "host": "saturn.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "saturn.pirc.pl",
+    "host": "saturn.pirc.pl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "saudade.ptnet.org",
+    "host": "saudade.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sbseeds.sytes.net",
+    "host": "sbseeds.sytes.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "seattle.morphie.net",
+    "host": "seattle.morphie.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "seattle.wa.us.irc-nerds.net",
+    "host": "seattle.wa.us.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "seattle.wa.us.undernet.org",
+    "host": "seattle.wa.us.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "senko.xertion.org",
+    "host": "senko.xertion.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "serenity.fl.us.dal.net",
+    "host": "serenity.fl.us.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.anynet.org",
+    "host": "services.anynet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.bg",
+    "host": "services.bg",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.chat",
+    "host": "services.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.coders-irc.net",
+    "host": "services.coders-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.globalchat.org",
+    "host": "services.globalchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.irc4fun.net",
+    "host": "services.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.jmeeting.com",
+    "host": "services.jmeeting.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.lichtsnel.nl",
+    "host": "services.lichtsnel.nl",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.oftc.net",
+    "host": "services.oftc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.onzin.org",
+    "host": "services.onzin.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.pc-logix.com",
+    "host": "services.pc-logix.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.penguinfriends.org",
+    "host": "services.penguinfriends.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.pinoyirc.com",
+    "host": "services.pinoyirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.pureirc.org",
+    "host": "services.pureirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.rofbbs.com",
+    "host": "services.rofbbs.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.serenity-irc.net",
+    "host": "services.serenity-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.sorcery.net",
+    "host": "services.sorcery.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.spotchat.org",
+    "host": "services.spotchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.swiftirc.net",
+    "host": "services.swiftirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.synchro.net",
+    "host": "services.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.tilde.chat",
+    "host": "services.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "services.wixchat.org",
+    "host": "services.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sestar.synchro.net",
+    "host": "sestar.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sg.marinabay.ayochat.or.id",
+    "host": "sg.marinabay.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sg.orchid.ayochat.or.id",
+    "host": "sg.orchid.ayochat.or.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sharpshooter.ny.us.abjects.net",
+    "host": "sharpshooter.ny.us.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "shijaku.albnetwork.org",
+    "host": "shijaku.albnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "shkodra.albnetwork.org",
+    "host": "shkodra.albnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "shodan.synchro.net",
+    "host": "shodan.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "shrek.evilnet.org",
+    "host": "shrek.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sidney.au.zonamirc.com",
+    "host": "sidney.au.zonamirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sigsegv.teranova.net",
+    "host": "sigsegv.teranova.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "silver.libera.chat",
+    "host": "silver.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "singapore.eyerc.net",
+    "host": "singapore.eyerc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "singapore.sg.whatnet.org",
+    "host": "singapore.sg.whatnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "siren.de.spotchat.org",
+    "host": "siren.de.spotchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sirius.hybridirc.com",
+    "host": "sirius.hybridirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sirocco.tx.us.synirc.net",
+    "host": "sirocco.tx.us.synirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sky.0x1b.ch",
+    "host": "sky.0x1b.ch",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "skylark.zeronode.net",
+    "host": "skylark.zeronode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "skylink.us.evochat.id",
+    "host": "skylink.us.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "slyktech.irc-nerds.net",
+    "host": "slyktech.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "smugglers-bar.mefalcon.de",
+    "host": "smugglers-bar.mefalcon.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "solace.ca.us.synirc.net",
+    "host": "solace.ca.us.synirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "solenoid.rizon.net",
+    "host": "solenoid.rizon.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sonaquela.ptnet.org",
+    "host": "sonaquela.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "space.cosmicirc.com",
+    "host": "space.cosmicirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "spades.retronode.org",
+    "host": "spades.retronode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "spadhausen.irc.it",
+    "host": "spadhausen.irc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "spaniels.slashnet.org",
+    "host": "spaniels.slashnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "spanish.darkworld.chat",
+    "host": "spanish.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sparrow.zeronode.net",
+    "host": "sparrow.zeronode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "speed.chatlife.net",
+    "host": "speed.chatlife.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "spicy.friendszone.org",
+    "host": "spicy.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "spiked.ca.us.abjects.net",
+    "host": "spiked.ca.us.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "squishyfish.irc.runxiyu.org",
+    "host": "squishyfish.irc.runxiyu.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ssl.irc.atw-inter.net",
+    "host": "ssl.irc.atw-inter.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stardust.ny.us.chat-solutions.org",
+    "host": "stardust.ny.us.chat-solutions.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "starwars.hel.de.forumcerdas.net",
+    "host": "starwars.hel.de.forumcerdas.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stats.freeunibg.eu",
+    "host": "stats.freeunibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "steam.wirachat.my",
+    "host": "steam.wirachat.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stepping.synchro.net",
+    "host": "stepping.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stirfry.digitalirc.org",
+    "host": "stirfry.digitalirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stirling.chathispano.com",
+    "host": "stirling.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stitch.chatspike.net",
+    "host": "stitch.chatspike.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stockholm.se.emechnet.org",
+    "host": "stockholm.se.emechnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stockholm.se.eu.gamesurge.net",
+    "host": "stockholm.se.eu.gamesurge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stockholm.se.quakenet.org",
+    "host": "stockholm.se.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stonewall.tawx.net",
+    "host": "stonewall.tawx.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "storm.techtronix.net",
+    "host": "storm.techtronix.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "stormy.fr.eu.abjects.net",
+    "host": "stormy.fr.eu.abjects.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "succubus.il.us.chatlounge.net",
+    "host": "succubus.il.us.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sunbird.zeronode.net",
+    "host": "sunbird.zeronode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "super.mario.brothers.irc-nerds.net",
+    "host": "super.mario.brothers.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sushi.penguinfriends.org",
+    "host": "sushi.penguinfriends.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "swepipe.esper.net",
+    "host": "swepipe.esper.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "switzerland.ix.evilnet.org",
+    "host": "switzerland.ix.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "sydney.darkworld.chat",
+    "host": "sydney.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "syncnix.synchro.net",
+    "host": "syncnix.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "synlinq.de.eu.rustnet.org",
+    "host": "synlinq.de.eu.rustnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "syrup.ca.p2p-network.net",
+    "host": "syrup.ca.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "system.sohbet.net",
+    "host": "system.sohbet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "system.spidermaster.org",
+    "host": "system.spidermaster.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tampere.fi.b2irc.net",
+    "host": "tampere.fi.b2irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tampere123.fi.b2irc.net",
+    "host": "tampere123.fi.b2irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tantalum.libera.chat",
+    "host": "tantalum.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tardis.en.uk.swiftirc.net",
+    "host": "tardis.en.uk.swiftirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tauri.aureaworld.org",
+    "host": "tauri.aureaworld.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tboltbbs.synchro.net",
+    "host": "tboltbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tchat.hosnet.fr",
+    "host": "tchat.hosnet.fr",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "teacup.digitalirc.org",
+    "host": "teacup.digitalirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "team-irc.w3.org",
+    "host": "team-irc.w3.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "team.tilde.chat",
+    "host": "team.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "teepee.freenode.net",
+    "host": "teepee.freenode.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "test.globalirc.it",
+    "host": "test.globalirc.it",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "test.irc.386.su",
+    "host": "test.irc.386.su",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "testrig.knightirc.net",
+    "host": "testrig.knightirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "texas.chatlife.net",
+    "host": "texas.chatlife.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tfsi.synchro.net",
+    "host": "tfsi.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "theiceca.synchro.net",
+    "host": "theiceca.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "thelounge.irc-nerds.net",
+    "host": "thelounge.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "thor.cakeforce.co.uk",
+    "host": "thor.cakeforce.co.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "thunder.synchro.net",
+    "host": "thunder.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tiabbs.synchro.net",
+    "host": "tiabbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tiki.oceanius.com",
+    "host": "tiki.oceanius.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tlcbbs.synchro.net",
+    "host": "tlcbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tngnet.nl.quakenet.org",
+    "host": "tngnet.nl.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tnt.il.us.mixxnet.net",
+    "host": "tnt.il.us.mixxnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "toolazy.synchro.net",
+    "host": "toolazy.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "town.tilde.chat",
+    "host": "town.tilde.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "townley.irc.gtanet.com",
+    "host": "townley.irc.gtanet.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "traal.nightstar.net",
+    "host": "traal.nightstar.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "transpo.synchro.net",
+    "host": "transpo.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "trapdoor.synchro.net",
+    "host": "trapdoor.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "travincal.snoonet.org",
+    "host": "travincal.snoonet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "triglav.slochat.net",
+    "host": "triglav.slochat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "trinity.sg.evochat.id",
+    "host": "trinity.sg.evochat.id",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tryler.ludost.net",
+    "host": "tryler.ludost.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tulip.eu.ix.undernet.org",
+    "host": "tulip.eu.ix.undernet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "tungsten.libera.chat",
+    "host": "tungsten.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uk-gl.moep.chat",
+    "host": "uk-gl.moep.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uk.dbase.in.rs",
+    "host": "uk.dbase.in.rs",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ullapool.chathispano.com",
+    "host": "ullapool.chathispano.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "underspace.scenep2p.net",
+    "host": "underspace.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "underworld.se.eu.dal.net",
+    "host": "underworld.se.eu.dal.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "underworld2.no.quakenet.org",
+    "host": "underworld2.no.quakenet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uni-erlangen.de",
+    "host": "uni-erlangen.de",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "unimatrix.geekshed.net",
+    "host": "unimatrix.geekshed.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "united.geeknode.org",
+    "host": "united.geeknode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "universochat.com",
+    "host": "universochat.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "unixverse.mindforge.org",
+    "host": "unixverse.mindforge.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uranium.libera.chat",
+    "host": "uranium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ursa.nj.us.darkvoltage.net",
+    "host": "ursa.nj.us.darkvoltage.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us-east.darkworld.chat",
+    "host": "us-east.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us-east.dbase.in.rs",
+    "host": "us-east.dbase.in.rs",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us-pa.moep.chat",
+    "host": "us-pa.moep.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us.darkworld.chat",
+    "host": "us.darkworld.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us.friendszone.org",
+    "host": "us.friendszone.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us.irc.ghostsirc.net",
+    "host": "us.irc.ghostsirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us.lowendirc.com",
+    "host": "us.lowendirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us1.relaxedirc.net",
+    "host": "us1.relaxedirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us2.relaxedirc.net",
+    "host": "us2.relaxedirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "us99.synchro.net",
+    "host": "us99.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "users.scoutlink.net",
+    "host": "users.scoutlink.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uswest.sprynet.org",
+    "host": "uswest.sprynet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uworld.kampungchat.org",
+    "host": "uworld.kampungchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "uzume.pc-logix.com",
+    "host": "uzume.pc-logix.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "valhall.scenep2p.net",
+    "host": "valhall.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "valkyrie.us.unifiedchat.net",
+    "host": "valkyrie.us.unifiedchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vampire.tx.us.chatlounge.net",
+    "host": "vampire.tx.us.chatlounge.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vampire.wirachat.my",
+    "host": "vampire.wirachat.my",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vancouver-ca.newnet.net",
+    "host": "vancouver-ca.newnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vega.nj.us.mixxnet.net",
+    "host": "vega.nj.us.mixxnet.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "veleno.synchro.net",
+    "host": "veleno.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "venus.sa-irc.com",
+    "host": "venus.sa-irc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "versailles.fr.pureirc.com",
+    "host": "versailles.fr.pureirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vert.synchro.net",
+    "host": "vert.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vienna.irc.at",
+    "host": "vienna.irc.at",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vindobona.hackint.org",
+    "host": "vindobona.hackint.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vintage.out-dated.net",
+    "host": "vintage.out-dated.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "viperbbs.synchro.net",
+    "host": "viperbbs.synchro.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vlwc.virtualife.com.br",
+    "host": "vlwc.virtualife.com.br",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "volcano.teranova.net",
+    "host": "volcano.teranova.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vshell.us.allnetwork.org",
+    "host": "vshell.us.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vuln.abandoned-irc.net",
+    "host": "vuln.abandoned-irc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "vwnet.vircio.net",
+    "host": "vwnet.vircio.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wallace.explosionirc.net",
+    "host": "wallace.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wargames.seattle.wa.us.irc-nerds.net",
+    "host": "wargames.seattle.wa.us.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "warsaw.global-irc.eu",
+    "host": "warsaw.global-irc.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wd1cks.org",
+    "host": "wd1cks.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "web.cyberirc.org",
+    "host": "web.cyberirc.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "web.mavra.net",
+    "host": "web.mavra.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "web.shqipet.ch",
+    "host": "web.shqipet.ch",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "web.us.allnetwork.org",
+    "host": "web.us.allnetwork.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "web.zemra.org",
+    "host": "web.zemra.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "webchat.alphachat.net",
+    "host": "webchat.alphachat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "webchat.freeunibg.eu",
+    "host": "webchat.freeunibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "webchat.irc-nerds.net",
+    "host": "webchat.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "webirc.chat",
+    "host": "webirc.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "webirc.freeunibg.eu",
+    "host": "webirc.freeunibg.eu",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "webirc.mavra.com",
+    "host": "webirc.mavra.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "whiterose.irc4fun.net",
+    "host": "whiterose.irc4fun.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "whitewidow.420-hightimes.com",
+    "host": "whitewidow.420-hightimes.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "whynot.tzirc.com",
+    "host": "whynot.tzirc.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "windmills.nl.p2p-network.net",
+    "host": "windmills.nl.p2p-network.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wintermute.scenep2p.net",
+    "host": "wintermute.scenep2p.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wirefull.geeknode.org",
+    "host": "wirefull.geeknode.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "witch.wixchat.org",
+    "host": "witch.wixchat.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wizard.technet.chat",
+    "host": "wizard.technet.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wizard.us.unifiedchat.net",
+    "host": "wizard.us.unifiedchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wonder.slashnet.org",
+    "host": "wonder.slashnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wrath.uk.eu.synirc.net",
+    "host": "wrath.uk.eu.synirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "wurst.slashnet.org",
+    "host": "wurst.slashnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "www.mycooldude.info",
+    "host": "www.mycooldude.info",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "xena.universalnet.org",
+    "host": "xena.universalnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "xplose.be.irc.krey.net",
+    "host": "xplose.be.irc.krey.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "xtremeprovider.irc-nerds.net",
+    "host": "xtremeprovider.irc-nerds.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "xxx.skychatz.org",
+    "host": "xxx.skychatz.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "ydieh.explosionirc.net",
+    "host": "ydieh.explosionirc.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "yenimobil.mavra.com",
+    "host": "yenimobil.mavra.com",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "yume.dreams-fr.net",
+    "host": "yume.dreams-fr.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "yuzuki.surrealchat.net",
+    "host": "yuzuki.surrealchat.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "za.ircsource.irc.uk",
+    "host": "za.ircsource.irc.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zen.ptnet.org",
+    "host": "zen.ptnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zenith.cpt.za.atrum.org",
+    "host": "zenith.cpt.za.atrum.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zeus.cakeforce.co.uk",
+    "host": "zeus.cakeforce.co.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zhadum.de.eu.irchighway.net",
+    "host": "zhadum.de.eu.irchighway.net",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zinc.libera.chat",
+    "host": "zinc.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zion.evilnet.org",
+    "host": "zion.evilnet.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zirconium.libera.chat",
+    "host": "zirconium.libera.chat",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zoidberg.hackint.org",
+    "host": "zoidberg.hackint.org",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zug.abad1dea.to",
+    "host": "zug.abad1dea.to",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  },
+  {
+    "name": "zulu.cakeforce.co.uk",
+    "host": "zulu.cakeforce.co.uk",
+    "port": 6697,
+    "tls": true,
+    "channel": ""
+  }
+]
